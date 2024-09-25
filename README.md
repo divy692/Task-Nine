@@ -61,8 +61,7 @@ This shebang allows the script to be executed directly by telling the system to 
 ##### 2. Run the script directly without the python command:
 `./script.py`  
 The shebang (`#!/usr/bin/env python3`) enables the script to be executed directly without needing to invoke the `python` command explicitly.
-### 5. Upload the Changed Files to the taskeight Repo
-Once both files (HTML and Python) are updated and tested, upload them to your taskeight GitHub repository.
+
 
 
 
